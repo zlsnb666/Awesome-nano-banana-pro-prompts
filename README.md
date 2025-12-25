@@ -1,4 +1,4 @@
-<img width="1417" height="2113" alt="nano banana pro创意提示词大全封面" src="https://github.com/user-attachments/assets/d9dfe827-5c7b-4553-92e2-b749bff878ec" />
+<img width="850" height="1268" alt="nano banana pro创意提示词大全封面" src="https://github.com/user-attachments/assets/9eacd1c0-c91a-4797-972e-764c3a71ea57" />
 
 # Awesome-nano-banana-pro prompt
 ## Nano Banana Pro: A Premium AIGC Prompt Asset Library. Dedicated to the open-source spirit. Special thanks to all contributors for their creativity.（🚀 覆盖多场景的高质量 Prompt 合集，包含独家原创适配案例。❤️ 致敬社区：源于开源，回馈开源，感谢所有贡献创意的网友。）
