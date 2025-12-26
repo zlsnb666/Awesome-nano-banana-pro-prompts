@@ -180,6 +180,7 @@ Avoid:
 - [9️⃣8️⃣ 真人galgame](#9️⃣8️⃣-真人galgame)
 - [9️⃣9️⃣ 将真人包装成圣诞礼物](#9️⃣9️⃣-将真人包装成圣诞礼物)
 - [1️⃣0️⃣0️⃣ 人物/产品背景替换](#1️⃣0️⃣0️⃣-人物产品背景替换)
+- [1️⃣0️⃣1️⃣ 服装提取](#1️⃣0️⃣1️⃣-服装提取)
 
 
 # （2）免费使用nano banana pro的方式汇总：
@@ -1620,6 +1621,42 @@ prompt
 prompt
 ```
 [Subject from original image] isolated and placed onto [new background description], matching ambient lighting and color temperature between subject and new environment, appropriate shadows cast onto new background surface, seamless edge blending with natural depth of field, photorealistic integration, no visible cut-out artifacts
+```
+
+## 1️⃣0️⃣1️⃣ 服装提取
+
+参考图图vs提取的服装
+
+服装整体放置promp（如果后续要让自己的模特穿这套服装，推荐这种方案）
+![IMG_2287](https://github.com/user-attachments/assets/edd98991-cc99-460e-b7d4-e6c8d82ccf96)
+
+
+
+```
+
+删除人物与背景，只保留一整件完整的衣服。
+严禁拆分、分离、复制、错位、重组、变形这件衣服。
+衣服必须是一个完整整体，就像平铺在地上一样。
+保持原比例、原颜色、原纹理、原褶皱与全部细节。
+所有衣袖、领口、口袋等部位必须正确连接。
+最终输出：一整件衣服，居中，纯白背景，高分辨率高清。
+
+```
+
+服装分开放置promp
+
+![IMG_2286](https://github.com/user-attachments/assets/4494e8b1-1507-4aef-b60c-23d438097c92)
+
+
+```
+生成这张图片的服装平铺图，把每件服装分开放置
+```
+
+若要增加服装说明，可以加上
+
+```
+使用手绘箭头或引导线，连接每件服装，并使用中文模拟手写注释，标注出每件衣服的名称款式与材质，字体清晰，模拟手写注释，有高级感，设计感，和美感
+
 ```
 
 
