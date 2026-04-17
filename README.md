@@ -1,7 +1,6 @@
-<img width="850" height="1268" alt="nano banana pro创意提示词大全封面" src="https://github.com/user-attachments/assets/9eacd1c0-c91a-4797-972e-764c3a71ea57" />
 
 # Awesome-nano-banana-pro prompt
-## Nano Banana Pro: A Premium AIGC Prompt Asset Library. Dedicated to the open-source spirit. Special thanks to all contributors for their creativity.（🚀 覆盖多场景的高质量 Prompt 合集，包含独家原创适配案例。❤️ 致敬社区：源于开源，回馈开源，感谢所有贡献创意的网友。）
+## Nano Banana Pro: A Premium AIGC Prompt Asset Library. Dedicated to the open-source spirit. Special thanks to all contributors for their creativity.（🚀 覆盖多场景的高质量 Prompt 合集，包含独家原创适配案例。❤️ 致敬社区：源于开源社区，感谢所有贡献创意的网友。）
 
 使用Gemini提问，输出文本答案时，若出现出现幻觉（输出答案不正确、编造数据）/涉及最新资讯，可以加上避免幻觉的prompt
 ```
@@ -186,7 +185,6 @@ Avoid:
 # （2）免费使用nano banana pro的方式汇总：
 ### 个人分享，没有为任何平台打广告
 
-### 其中方式1-2需要挂vpn才能使用，方式3-7国内网络即可使用
 1. Gemini官网（学生认证可以免费使用一年pro，可以自行去搜教程，或者去某小黄鱼）
 2. Google AI studio：更适合开发者使用
 3. runninghub：https://www.runninghub.cn/ai-detail/1991550248581603329
@@ -1664,6 +1662,7 @@ prompt
 - 邮箱：zoulinshen666@gmail.com
 
 ## ⚖️ 致谢 (Credits)
+ZHO-ZHO-ZHO
 
 Core concepts based on the wisdom of the masses
 
